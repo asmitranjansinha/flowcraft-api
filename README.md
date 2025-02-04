@@ -1,4 +1,4 @@
-# FastAPI DAG Checker
+# FastAPI DAG Checker (flowcraft-api)
 
 ## 📌 Project Overview
 
